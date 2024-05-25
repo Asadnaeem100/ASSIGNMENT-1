@@ -1,0 +1,56 @@
+/* Comment Code */
+h1{
+    text-align: center;
+    color:rgb(31, 31, 75);
+    font-size:40px;
+}  
+
+/* Comment Code */
+h6{
+    text-align:center;
+    color: rgb(102, 50, 13);
+}  
+
+/* Comment Code */
+img{
+    width:40%;
+    height:25%;
+    border:1px solid black;
+}
+
+/* Comment Code */
+.center{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+/* Comment Code */
+p{
+    text-align:center;
+    color: rgb(102, 50, 13);
+}
+
+/* Comment Code */
+.asad{
+    background-color:burlywood;
+    padding-top: 30px;
+}
+
+/* Comment Code */
+h2{
+    text-align:center;
+    color:black;
+}
+
+/* Comment Code */
+div.list{
+    text-align:center;
+    color: rgb(102, 50, 13);
+}
+
+/* Comment Code */
+ul.myUL{
+    display: inline-block;
+    text-align:left;
+}
